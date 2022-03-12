@@ -44,8 +44,8 @@ function yincang(){
 }
 
 function denglu(){
-	window.location.href = "denglu.html";
+	window.location.href = "/files/denglu.html";
 }
 function fangke(){
-	window.location.href = "zhuce.html";
+	window.location.href = "/files/zhuce.html";
 }
